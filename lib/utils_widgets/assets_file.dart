@@ -1,0 +1,37 @@
+class ImageAssets {
+  ImageAssets._();
+  static const String profileIcon = "assets/profile-tick.svg";
+  static const String verifyIcon = "assets/verify.svg";
+  static const String settingIcon = "assets/setting-3.svg";
+  static const String transactionLimitIcon = "assets/transaction-minus.svg";
+  static const String tranHistIcon = "assets/timer.svg";
+  static const String reipientIcon = "assets/profile.svg";
+  static const String changPasswordIcon = "assets/password-check.svg";
+  static const String kycIcon = "assets/scanner.svg";
+  static const String twoFactorIcon = "assets/shield-security.svg";
+  static const String changinIcon = "assets/unlock.svg";
+  static const String logoutIcon = "assets/logout.svg";
+  static const String referalsIcon = "assets/share.svg";
+  static const String languageIcon = "assets/global.svg";
+  static const String rateIcon = "assets/arrow-swap-horizontal.svg";
+  static const String inboxIcon = "assets/Mail.svg";
+  static const String notificationIcon = "assets/notification-bing.svg";
+  static const String helpIcon = "assets/24-support.svg";
+  static const String deviceIcon = "assets/devices.svg";
+  static const String fingerprintIcon = "assets/finger-cricle.svg";
+  static const String loginIcon = "assets/login.svg";
+  static const String addIcon = "assets/add.svg";
+  static const String exploreIcon = "assets/Explore.svg";
+  static const String homeIcon = "assets/home-2.svg";
+  static const String refreshIcon = "assets/refresh-2.svg";
+  static const String sendOutlineIcon = "assets/send-2_outline.svg";
+  static const String sendFilledIcon = "assets/send-2.svg";
+  static const String walletIcon = "assets/wallet-3.svg";
+  static const String image1 = "assets/image 1 (1).png";
+  static const String image2 = "assets/image 1 (2).png";
+  static const String eyeVisibilityIcon = "assets/eye-slash.svg";
+  static const String fundingIcon = "assets/wallet-add.svg";
+  static const String convertIcon = "assets/Vector.svg";
+  static const String flagImg = "assets/flag.png";
+  static const String personImg = "assets/person.png";
+}
